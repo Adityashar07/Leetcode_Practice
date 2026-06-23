@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Adityashar07/Leetcode_Practice/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Adityashar07/Leetcode_Practice/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 <!---LeetCode Topics End-->
