@@ -32,15 +32,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Adityashar07/Leetcode_Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Adityashar07/Leetcode_Practice/tree/main/1929-concatenation-of-array/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Adityashar07/Leetcode_Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Adityashar07/Leetcode_Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -69,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Adityashar07/Leetcode_Practice/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Depth-First Search
 |  |
@@ -82,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -98,4 +103,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0876-middle-of-the-linked-list) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
