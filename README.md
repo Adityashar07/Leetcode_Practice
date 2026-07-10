@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -93,4 +94,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Adityashar07/Leetcode_Practice/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
