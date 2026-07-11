@@ -82,14 +82,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/Adityashar07/Leetcode_Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/Adityashar07/Leetcode_Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/Adityashar07/Leetcode_Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -118,4 +121,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Adityashar07/Leetcode_Practice/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
