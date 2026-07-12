@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0001-two-sum/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Adityashar07/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Adityashar07/Leetcode_Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Adityashar07/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Adityashar07/Leetcode_Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
