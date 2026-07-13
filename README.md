@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0217-contains-duplicate/) | Easy |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0035-search-insert-position) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
