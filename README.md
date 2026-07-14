@@ -19,11 +19,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0013-roman-to-integer/) | Easy |
+| [0067-add-binary](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0067-add-binary](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0067-add-binary) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adityashar07/Leetcode_Practice/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Adityashar07/Leetcode_Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Counting
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Adityashar07/Leetcode_Practice/tree/main/1929-concatenation-of-array/) | Easy |
 ## Stack
 |  |
@@ -140,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0067-add-binary) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
 |  |
