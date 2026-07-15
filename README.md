@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0035-search-insert-position) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0217-contains-duplicate/) | Easy |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0142-linked-list-cycle-ii) |
