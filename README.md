@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0067-add-binary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -165,4 +166,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
