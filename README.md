@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Adityashar07/Leetcode_Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Adityashar07/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0067-add-binary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [2413-smallest-even-multiple](https://github.com/Adityashar07/Leetcode_Practice/tree/master/2413-smallest-even-multiple) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -39,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Adityashar07/Leetcode_Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/Adityashar07/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Adityashar07/Leetcode_Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Adityashar07/Leetcode_Practice/tree/main/1929-concatenation-of-array/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -141,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Adityashar07/Leetcode_Practice/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Two Pointers
 |  |
@@ -160,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0035-search-insert-position) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -178,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Adityashar07/Leetcode_Practice/tree/master/2413-smallest-even-multiple) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -185,4 +192,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0169-majority-element) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
