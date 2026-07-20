@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityashar07/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Adityashar07/Leetcode_Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
