@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0274-h-index](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Adityashar07/Leetcode_Practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityashar07/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0274-h-index](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityashar07/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Adityashar07/Leetcode_Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0274-h-index) |
 | [1833-maximum-ice-cream-bars](https://github.com/Adityashar07/Leetcode_Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Simulation
 |  |
