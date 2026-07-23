@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [1189-maximum-number-of-balloons](https://github.com/Adityashar07/Leetcode_Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Adityashar07/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityashar07/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Adityashar07/Leetcode_Practice/tree/master/2413-smallest-even-multiple) |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Adityashar07/Leetcode_Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0274-h-index](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Adityashar07/Leetcode_Practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityashar07/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -239,4 +242,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Adityashar07/Leetcode_Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adityashar07/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
